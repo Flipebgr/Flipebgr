@@ -3,7 +3,7 @@
 ## Sobre mim
 - 🎓 Estudante de Sistemas de Informação  
 - 🔒 Entusiasta em Cybersegurança  
-- 💻 Atualmente programando em **Java** e **C++**
+- 💻 Atualmente programando em **PHP**
 
 ## Tecnologias  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
