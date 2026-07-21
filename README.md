@@ -14,7 +14,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 
 ## 📊 Estatísticas no GitHub
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Flipebgr&show_icons=true&theme=default)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Flipebgr&show_icons=true&theme=default)
 
 ## 📫 Contato
 - ✉️ Email: flipebgmufp@gmail.com
