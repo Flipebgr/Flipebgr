@@ -6,15 +6,15 @@
 - 💻 Atualmente programando em **PHP**
 
 ## Tecnologias  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 
 ## 📊 Estatísticas no GitHub
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Flipebgr&show_icons=true&theme=default&count_private=true)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Flipebgr&show_icons=true&theme=default)
 
 ## 📫 Contato
 - ✉️ Email: flipebgmufp@gmail.com
